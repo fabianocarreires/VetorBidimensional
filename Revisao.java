@@ -1,17 +1,4 @@
-//7.	Considerando uma matriz quadrada, podemos identificar várias áreas, como por exemplo, a diagonal principal,
-//secundária, ...
-//Elaborar um programa que leia a ordem de uma matriz quadrada (mínimo de 3 e máximo de 10)
-//e leia valores inteiros e positivos para ela (pode utilizar a função sorteio).
-//Após a leitura dos valores desta matriz, escrever na tela de maneira centralizada um menu de opções:
-//1.	Diagonal principal (DP)
-//2.	Diagonal secundária (DS)
-//3.	Elementos acima da DP
-//4.	Elementos abaixo da DP
-//5.	Elementos acima da DS
-//6.	Elementos abaixo da DS
-//7.	Todos os elementos da matriz
-//8.	Sair do programa
-//Para cada uma destas opções, apresentar a soma dos elementos que compõem a opção selecionada.
+
 package revisao;
 
 import java.util.Random;
